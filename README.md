@@ -1,4 +1,3 @@
-# dual-ml-smartphone-price-prediction
 # Dual ML System for Smartphone Price Prediction
 
 This project uses both Regression and Classification models to predict smartphone price and price range based on various features.
