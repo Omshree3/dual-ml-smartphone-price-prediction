@@ -20,5 +20,5 @@ This project uses both Regression and Classification models to predict smartphon
 
 ---
 
-**Author**: Your omshree chinni  
+**Author**: omshree chinni  
 **Tools**: Python, scikit-learn, XGBoost, Jupyter, GitHub
